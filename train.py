@@ -70,6 +70,9 @@ def construct_hyper_param(parser):
                         type=int,
                         default=4,
                         help="The size of beam for smart decoding")
+    
+    # Redirect output to file
+    parser.add_argument('--out', default='out.txt', type=str, help="output file name")
 
     args = parser.parse_args()
 
@@ -526,23 +529,27 @@ def test(data_loader, data_table, model, model_bert, bert_config, tokenizer,
     return acc, results, cnt_list
 
 
-def print_result(epoch, acc, dname):
+def print_result(args, epoch, acc, dname):
     ave_loss, acc_sc, acc_sa, acc_wn, acc_wc, acc_wo, acc_wvi, acc_wv, acc_lx, acc_x = acc
+    sys.stdout = open(args.out, "a")
 
     print(f'{dname} results ------------')
     print(
         f" Epoch: {epoch}, ave loss: {ave_loss}, acc_sc: {acc_sc:.3f}, acc_sa: {acc_sa:.3f}, acc_wn: {acc_wn:.3f}, \
         acc_wc: {acc_wc:.3f}, acc_wo: {acc_wo:.3f}, acc_wvi: {acc_wvi:.3f}, acc_wv: {acc_wv:.3f}, acc_lx: {acc_lx:.3f}, acc_x: {acc_x:.3f}"
     )
+    sys.stdout.close()
 
 if __name__ == '__main__':
-
+    
+    if torch.cuda.is_available():
+        print("training using GPU")
     ## 1. Hyper parameters
     parser = argparse.ArgumentParser()
     args = construct_hyper_param(parser)
 
     ## 2. Paths
-    path_h = '/home/wonseok'
+    path_h = './'
     path_wikisql = os.path.join(path_h, 'data', 'wikisql_tok')
     BERT_PT_PATH = path_wikisql
 
@@ -606,8 +613,8 @@ if __name__ == '__main__':
                                                 dset_name='dev', EG=args.EG)
 
 
-        print_result(epoch, acc_train, 'train')
-        print_result(epoch, acc_dev, 'dev')
+        print_result(args, epoch, acc_train, 'train')
+        print_result(args, epoch, acc_dev, 'dev')
 
         # save results for the official evaluation
         save_for_evaluation(path_save_for_evaluation, results_dev, 'dev')
@@ -626,5 +633,10 @@ if __name__ == '__main__':
 
             state = {'model_bert': model_bert.state_dict()}
             torch.save(state, os.path.join('.', 'model_bert_best.pt'))
- 
-        print(f" Best Dev lx acc: {acc_lx_t_best} at epoch: {epoch_best}")
+        
+        # bug
+        # with open("out.txt", "a") as f:
+            # best = "\nBest Dev lx acc: " + str(acc_lx_t_best) + " at epoch " + str(epoch_best) + "\n"
+            # f.write(best)
+        # print(acc_lx_t_best, epoch_best)
+        # print(f" Best Dev lx acc: {acc_lx_t_best} at epoch: {epoch_best}")

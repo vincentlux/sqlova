@@ -1,0 +1,428 @@
+train results ------------
+ Epoch: 0, ave loss: 0.799760293552313, acc_sc: 0.840, acc_sa: 0.868, acc_wn: 0.946,         acc_wc: 0.709, acc_wo: 0.867, acc_wvi: 0.743, acc_wv: 0.743, acc_lx: 0.458, acc_x: 0.507
+dev results ------------
+ Epoch: 0, ave loss: 1.543018784846904, acc_sc: 0.949, acc_sa: 0.896, acc_wn: 0.980,         acc_wc: 0.889, acc_wo: 0.917, acc_wvi: 0.819, acc_wv: 0.824, acc_lx: 0.650, acc_x: 0.721
+train results ------------
+ Epoch: 1, ave loss: 0.36405843093881546, acc_sc: 0.932, acc_sa: 0.904, acc_wn: 0.978,         acc_wc: 0.878, acc_wo: 0.941, acc_wvi: 0.874, acc_wv: 0.874, acc_lx: 0.675, acc_x: 0.679
+dev results ------------
+ Epoch: 1, ave loss: 2.2308631486772232, acc_sc: 0.960, acc_sa: 0.907, acc_wn: 0.979,         acc_wc: 0.910, acc_wo: 0.952, acc_wvi: 0.904, acc_wv: 0.905, acc_lx: 0.747, acc_x: 0.807
+train results ------------
+ Epoch: 2, ave loss: 0.20674976937207742, acc_sc: 0.946, acc_sa: 0.906, acc_wn: 0.983,         acc_wc: 0.905, acc_wo: 0.963, acc_wvi: 0.932, acc_wv: 0.932, acc_lx: 0.746, acc_x: 0.720
+dev results ------------
+ Epoch: 2, ave loss: 2.638229024401754, acc_sc: 0.960, acc_sa: 0.905, acc_wn: 0.984,         acc_wc: 0.926, acc_wo: 0.962, acc_wvi: 0.928, acc_wv: 0.929, acc_lx: 0.768, acc_x: 0.824
+train results ------------
+ Epoch: 3, ave loss: 0.15696711510329944, acc_sc: 0.952, acc_sa: 0.908, acc_wn: 0.986,         acc_wc: 0.919, acc_wo: 0.971, acc_wvi: 0.949, acc_wv: 0.949, acc_lx: 0.772, acc_x: 0.734
+dev results ------------
+ Epoch: 3, ave loss: 2.8200293770322054, acc_sc: 0.963, acc_sa: 0.904, acc_wn: 0.983,         acc_wc: 0.928, acc_wo: 0.965, acc_wvi: 0.930, acc_wv: 0.930, acc_lx: 0.774, acc_x: 0.832
+train results ------------
+ Epoch: 4, ave loss: 0.1281362091353481, acc_sc: 0.954, acc_sa: 0.910, acc_wn: 0.987,         acc_wc: 0.929, acc_wo: 0.974, acc_wvi: 0.958, acc_wv: 0.958, acc_lx: 0.789, acc_x: 0.746
+dev results ------------
+ Epoch: 4, ave loss: 3.1991951719984604, acc_sc: 0.964, acc_sa: 0.905, acc_wn: 0.984,         acc_wc: 0.932, acc_wo: 0.969, acc_wvi: 0.938, acc_wv: 0.939, acc_lx: 0.786, acc_x: 0.843
+train results ------------
+ Epoch: 5, ave loss: 0.10799536461053708, acc_sc: 0.960, acc_sa: 0.912, acc_wn: 0.989,         acc_wc: 0.935, acc_wo: 0.977, acc_wvi: 0.965, acc_wv: 0.965, acc_lx: 0.802, acc_x: 0.756
+dev results ------------
+ Epoch: 5, ave loss: 3.4564551016517764, acc_sc: 0.964, acc_sa: 0.906, acc_wn: 0.983,         acc_wc: 0.936, acc_wo: 0.965, acc_wvi: 0.940, acc_wv: 0.941, acc_lx: 0.788, acc_x: 0.847
+train results ------------
+ Epoch: 6, ave loss: 0.09620539486449879, acc_sc: 0.961, acc_sa: 0.913, acc_wn: 0.990,         acc_wc: 0.941, acc_wo: 0.979, acc_wvi: 0.970, acc_wv: 0.970, acc_lx: 0.813, acc_x: 0.761
+dev results ------------
+ Epoch: 6, ave loss: 3.700455988973747, acc_sc: 0.963, acc_sa: 0.904, acc_wn: 0.986,         acc_wc: 0.939, acc_wo: 0.971, acc_wvi: 0.945, acc_wv: 0.945, acc_lx: 0.792, acc_x: 0.848
+train results ------------
+ Epoch: 7, ave loss: 0.08510087725763661, acc_sc: 0.965, acc_sa: 0.915, acc_wn: 0.991,         acc_wc: 0.944, acc_wo: 0.981, acc_wvi: 0.972, acc_wv: 0.972, acc_lx: 0.822, acc_x: 0.767
+dev results ------------
+ Epoch: 7, ave loss: 3.74007845072682, acc_sc: 0.966, acc_sa: 0.905, acc_wn: 0.985,         acc_wc: 0.939, acc_wo: 0.971, acc_wvi: 0.945, acc_wv: 0.944, acc_lx: 0.796, acc_x: 0.851
+train results ------------
+ Epoch: 8, ave loss: 0.07774557634895923, acc_sc: 0.966, acc_sa: 0.917, acc_wn: 0.992,         acc_wc: 0.949, acc_wo: 0.983, acc_wvi: 0.975, acc_wv: 0.975, acc_lx: 0.830, acc_x: 0.771
+dev results ------------
+ Epoch: 8, ave loss: 3.989026132420284, acc_sc: 0.968, acc_sa: 0.903, acc_wn: 0.984,         acc_wc: 0.941, acc_wo: 0.969, acc_wvi: 0.945, acc_wv: 0.946, acc_lx: 0.797, acc_x: 0.855
+train results ------------
+ Epoch: 9, ave loss: 0.06988486591351402, acc_sc: 0.968, acc_sa: 0.918, acc_wn: 0.992,         acc_wc: 0.952, acc_wo: 0.983, acc_wvi: 0.979, acc_wv: 0.979, acc_lx: 0.837, acc_x: 0.777
+dev results ------------
+ Epoch: 9, ave loss: 4.247663410187384, acc_sc: 0.967, acc_sa: 0.902, acc_wn: 0.986,         acc_wc: 0.940, acc_wo: 0.973, acc_wvi: 0.944, acc_wv: 0.945, acc_lx: 0.794, acc_x: 0.851
+train results ------------
+ Epoch: 10, ave loss: 0.06319728385246896, acc_sc: 0.969, acc_sa: 0.920, acc_wn: 0.993,         acc_wc: 0.954, acc_wo: 0.984, acc_wvi: 0.981, acc_wv: 0.981, acc_lx: 0.843, acc_x: 0.780
+dev results ------------
+ Epoch: 10, ave loss: 4.1470105026756485, acc_sc: 0.968, acc_sa: 0.898, acc_wn: 0.985,         acc_wc: 0.942, acc_wo: 0.973, acc_wvi: 0.944, acc_wv: 0.944, acc_lx: 0.792, acc_x: 0.852
+train results ------------
+ Epoch: 11, ave loss: 0.05808504378017712, acc_sc: 0.970, acc_sa: 0.923, acc_wn: 0.993,         acc_wc: 0.955, acc_wo: 0.986, acc_wvi: 0.981, acc_wv: 0.981, acc_lx: 0.848, acc_x: 0.783
+dev results ------------
+ Epoch: 11, ave loss: 4.286276710084202, acc_sc: 0.967, acc_sa: 0.901, acc_wn: 0.986,         acc_wc: 0.940, acc_wo: 0.971, acc_wvi: 0.945, acc_wv: 0.948, acc_lx: 0.795, acc_x: 0.853
+train results ------------
+ Epoch: 12, ave loss: 0.0584636894324002, acc_sc: 0.970, acc_sa: 0.924, acc_wn: 0.993,         acc_wc: 0.956, acc_wo: 0.986, acc_wvi: 0.982, acc_wv: 0.982, acc_lx: 0.851, acc_x: 0.784
+dev results ------------
+ Epoch: 12, ave loss: 4.1520503026668525, acc_sc: 0.970, acc_sa: 0.901, acc_wn: 0.986,         acc_wc: 0.942, acc_wo: 0.972, acc_wvi: 0.947, acc_wv: 0.949, acc_lx: 0.800, acc_x: 0.857
+train results ------------
+ Epoch: 13, ave loss: 0.05323282671680325, acc_sc: 0.971, acc_sa: 0.926, acc_wn: 0.994,         acc_wc: 0.959, acc_wo: 0.987, acc_wvi: 0.984, acc_wv: 0.984, acc_lx: 0.856, acc_x: 0.787
+dev results ------------
+ Epoch: 13, ave loss: 4.36214320976745, acc_sc: 0.969, acc_sa: 0.896, acc_wn: 0.985,         acc_wc: 0.941, acc_wo: 0.972, acc_wvi: 0.946, acc_wv: 0.947, acc_lx: 0.792, acc_x: 0.854
+train results ------------
+ Epoch: 14, ave loss: 0.04827500445340709, acc_sc: 0.972, acc_sa: 0.929, acc_wn: 0.994,         acc_wc: 0.961, acc_wo: 0.988, acc_wvi: 0.985, acc_wv: 0.985, acc_lx: 0.862, acc_x: 0.791
+dev results ------------
+ Epoch: 14, ave loss: 4.747479582910791, acc_sc: 0.968, acc_sa: 0.901, acc_wn: 0.985,         acc_wc: 0.942, acc_wo: 0.973, acc_wvi: 0.947, acc_wv: 0.948, acc_lx: 0.797, acc_x: 0.852
+train results ------------
+ Epoch: 15, ave loss: 0.04996362249232665, acc_sc: 0.973, acc_sa: 0.931, acc_wn: 0.994,         acc_wc: 0.963, acc_wo: 0.988, acc_wvi: 0.985, acc_wv: 0.985, acc_lx: 0.866, acc_x: 0.792
+dev results ------------
+ Epoch: 15, ave loss: 4.338612601495443, acc_sc: 0.968, acc_sa: 0.897, acc_wn: 0.986,         acc_wc: 0.944, acc_wo: 0.974, acc_wvi: 0.948, acc_wv: 0.949, acc_lx: 0.798, acc_x: 0.856
+train results ------------
+ Epoch: 16, ave loss: 0.045937853155690864, acc_sc: 0.974, acc_sa: 0.931, acc_wn: 0.994,         acc_wc: 0.964, acc_wo: 0.988, acc_wvi: 0.986, acc_wv: 0.986, acc_lx: 0.869, acc_x: 0.794
+dev results ------------
+ Epoch: 16, ave loss: 4.679339873916466, acc_sc: 0.968, acc_sa: 0.900, acc_wn: 0.986,         acc_wc: 0.946, acc_wo: 0.974, acc_wvi: 0.950, acc_wv: 0.950, acc_lx: 0.801, acc_x: 0.857
+train results ------------
+ Epoch: 17, ave loss: 0.04653579882230329, acc_sc: 0.975, acc_sa: 0.933, acc_wn: 0.994,         acc_wc: 0.964, acc_wo: 0.988, acc_wvi: 0.985, acc_wv: 0.985, acc_lx: 0.871, acc_x: 0.796
+dev results ------------
+ Epoch: 17, ave loss: 4.411626170535672, acc_sc: 0.970, acc_sa: 0.899, acc_wn: 0.985,         acc_wc: 0.944, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.801, acc_x: 0.862
+train results ------------
+ Epoch: 18, ave loss: 0.04119700556606908, acc_sc: 0.975, acc_sa: 0.935, acc_wn: 0.994,         acc_wc: 0.965, acc_wo: 0.989, acc_wvi: 0.987, acc_wv: 0.987, acc_lx: 0.875, acc_x: 0.798
+dev results ------------
+ Epoch: 18, ave loss: 4.998102460018056, acc_sc: 0.970, acc_sa: 0.896, acc_wn: 0.985,         acc_wc: 0.945, acc_wo: 0.973, acc_wvi: 0.950, acc_wv: 0.951, acc_lx: 0.797, acc_x: 0.857
+train results ------------
+ Epoch: 19, ave loss: 0.03898212950074803, acc_sc: 0.977, acc_sa: 0.937, acc_wn: 0.995,         acc_wc: 0.967, acc_wo: 0.990, acc_wvi: 0.988, acc_wv: 0.988, acc_lx: 0.881, acc_x: 0.801
+dev results ------------
+ Epoch: 19, ave loss: 5.174836003665612, acc_sc: 0.969, acc_sa: 0.892, acc_wn: 0.984,         acc_wc: 0.943, acc_wo: 0.971, acc_wvi: 0.947, acc_wv: 0.947, acc_lx: 0.790, acc_x: 0.853
+train results ------------
+ Epoch: 20, ave loss: 0.03988195235436337, acc_sc: 0.976, acc_sa: 0.939, acc_wn: 0.995,         acc_wc: 0.968, acc_wo: 0.989, acc_wvi: 0.987, acc_wv: 0.987, acc_lx: 0.883, acc_x: 0.801
+dev results ------------
+ Epoch: 20, ave loss: 4.7657880752317885, acc_sc: 0.967, acc_sa: 0.894, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.973, acc_wvi: 0.952, acc_wv: 0.952, acc_lx: 0.794, acc_x: 0.854
+train results ------------
+ Epoch: 21, ave loss: 0.03651899949923222, acc_sc: 0.977, acc_sa: 0.941, acc_wn: 0.995,         acc_wc: 0.969, acc_wo: 0.990, acc_wvi: 0.989, acc_wv: 0.989, acc_lx: 0.887, acc_x: 0.804
+dev results ------------
+ Epoch: 21, ave loss: 4.676029563324831, acc_sc: 0.968, acc_sa: 0.893, acc_wn: 0.983,         acc_wc: 0.944, acc_wo: 0.971, acc_wvi: 0.949, acc_wv: 0.950, acc_lx: 0.794, acc_x: 0.856
+train results ------------
+ Epoch: 22, ave loss: 0.033926245640624866, acc_sc: 0.978, acc_sa: 0.942, acc_wn: 0.995,         acc_wc: 0.970, acc_wo: 0.990, acc_wvi: 0.989, acc_wv: 0.989, acc_lx: 0.890, acc_x: 0.807
+dev results ------------
+ Epoch: 22, ave loss: 5.167300701079866, acc_sc: 0.971, acc_sa: 0.893, acc_wn: 0.984,         acc_wc: 0.944, acc_wo: 0.972, acc_wvi: 0.948, acc_wv: 0.949, acc_lx: 0.795, acc_x: 0.858
+train results ------------
+ Epoch: 23, ave loss: 0.03508070947711628, acc_sc: 0.978, acc_sa: 0.943, acc_wn: 0.995,         acc_wc: 0.970, acc_wo: 0.991, acc_wvi: 0.989, acc_wv: 0.989, acc_lx: 0.892, acc_x: 0.807
+dev results ------------
+ Epoch: 23, ave loss: 5.021053936509196, acc_sc: 0.968, acc_sa: 0.897, acc_wn: 0.984,         acc_wc: 0.945, acc_wo: 0.972, acc_wvi: 0.950, acc_wv: 0.951, acc_lx: 0.800, acc_x: 0.859
+train results ------------
+ Epoch: 24, ave loss: 0.03439037564886755, acc_sc: 0.979, acc_sa: 0.946, acc_wn: 0.995,         acc_wc: 0.970, acc_wo: 0.990, acc_wvi: 0.988, acc_wv: 0.988, acc_lx: 0.894, acc_x: 0.807
+dev results ------------
+ Epoch: 24, ave loss: 4.825918517478156, acc_sc: 0.969, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.944, acc_wo: 0.975, acc_wvi: 0.950, acc_wv: 0.952, acc_lx: 0.794, acc_x: 0.855
+train results ------------
+ Epoch: 25, ave loss: 0.03123112082467833, acc_sc: 0.979, acc_sa: 0.947, acc_wn: 0.996,         acc_wc: 0.972, acc_wo: 0.992, acc_wvi: 0.990, acc_wv: 0.990, acc_lx: 0.898, acc_x: 0.811
+dev results ------------
+ Epoch: 25, ave loss: 5.040665250683636, acc_sc: 0.970, acc_sa: 0.896, acc_wn: 0.986,         acc_wc: 0.946, acc_wo: 0.973, acc_wvi: 0.950, acc_wv: 0.952, acc_lx: 0.799, acc_x: 0.862
+train results ------------
+ Epoch: 26, ave loss: 0.033238277432787476, acc_sc: 0.979, acc_sa: 0.947, acc_wn: 0.995,         acc_wc: 0.972, acc_wo: 0.991, acc_wvi: 0.989, acc_wv: 0.989, acc_lx: 0.898, acc_x: 0.810
+dev results ------------
+ Epoch: 26, ave loss: 4.875612373199377, acc_sc: 0.967, acc_sa: 0.893, acc_wn: 0.985,         acc_wc: 0.945, acc_wo: 0.974, acc_wvi: 0.949, acc_wv: 0.950, acc_lx: 0.795, acc_x: 0.857
+train results ------------
+ Epoch: 27, ave loss: 0.031114024832159234, acc_sc: 0.980, acc_sa: 0.949, acc_wn: 0.995,         acc_wc: 0.972, acc_wo: 0.991, acc_wvi: 0.990, acc_wv: 0.990, acc_lx: 0.901, acc_x: 0.811
+dev results ------------
+ Epoch: 27, ave loss: 5.107348517722574, acc_sc: 0.966, acc_sa: 0.891, acc_wn: 0.985,         acc_wc: 0.943, acc_wo: 0.973, acc_wvi: 0.950, acc_wv: 0.950, acc_lx: 0.789, acc_x: 0.850
+train results ------------
+ Epoch: 28, ave loss: 0.02796366309461861, acc_sc: 0.981, acc_sa: 0.949, acc_wn: 0.995,         acc_wc: 0.972, acc_wo: 0.992, acc_wvi: 0.990, acc_wv: 0.990, acc_lx: 0.902, acc_x: 0.812
+dev results ------------
+ Epoch: 28, ave loss: 5.2148979476349675, acc_sc: 0.967, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.974, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.795, acc_x: 0.855
+train results ------------
+ Epoch: 29, ave loss: 0.03079817386959834, acc_sc: 0.980, acc_sa: 0.949, acc_wn: 0.995,         acc_wc: 0.971, acc_wo: 0.992, acc_wvi: 0.990, acc_wv: 0.990, acc_lx: 0.902, acc_x: 0.812
+dev results ------------
+ Epoch: 29, ave loss: 5.120868710781983, acc_sc: 0.967, acc_sa: 0.893, acc_wn: 0.984,         acc_wc: 0.945, acc_wo: 0.973, acc_wvi: 0.948, acc_wv: 0.949, acc_lx: 0.796, acc_x: 0.855
+train results ------------
+ Epoch: 30, ave loss: 0.02988278818886987, acc_sc: 0.981, acc_sa: 0.951, acc_wn: 0.996,         acc_wc: 0.974, acc_wo: 0.992, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.906, acc_x: 0.815
+dev results ------------
+ Epoch: 30, ave loss: 5.376023981705168, acc_sc: 0.967, acc_sa: 0.892, acc_wn: 0.984,         acc_wc: 0.947, acc_wo: 0.972, acc_wvi: 0.949, acc_wv: 0.950, acc_lx: 0.793, acc_x: 0.854
+train results ------------
+ Epoch: 31, ave loss: 0.025046816634936565, acc_sc: 0.982, acc_sa: 0.953, acc_wn: 0.995,         acc_wc: 0.973, acc_wo: 0.992, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.910, acc_x: 0.815
+dev results ------------
+ Epoch: 31, ave loss: 5.2344539923594064, acc_sc: 0.970, acc_sa: 0.890, acc_wn: 0.985,         acc_wc: 0.946, acc_wo: 0.973, acc_wvi: 0.950, acc_wv: 0.950, acc_lx: 0.795, acc_x: 0.858
+train results ------------
+ Epoch: 32, ave loss: 0.030606900657975913, acc_sc: 0.982, acc_sa: 0.953, acc_wn: 0.996,         acc_wc: 0.973, acc_wo: 0.992, acc_wvi: 0.990, acc_wv: 0.990, acc_lx: 0.908, acc_x: 0.815
+dev results ------------
+ Epoch: 32, ave loss: 5.062740877340152, acc_sc: 0.968, acc_sa: 0.886, acc_wn: 0.985,         acc_wc: 0.945, acc_wo: 0.974, acc_wvi: 0.950, acc_wv: 0.951, acc_lx: 0.789, acc_x: 0.855
+train results ------------
+ Epoch: 33, ave loss: 0.025570595072435778, acc_sc: 0.982, acc_sa: 0.955, acc_wn: 0.996,         acc_wc: 0.975, acc_wo: 0.992, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.913, acc_x: 0.818
+dev results ------------
+ Epoch: 33, ave loss: 5.5338178091467825, acc_sc: 0.968, acc_sa: 0.890, acc_wn: 0.985,         acc_wc: 0.946, acc_wo: 0.973, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.795, acc_x: 0.852
+train results ------------
+ Epoch: 34, ave loss: 0.02491051454357978, acc_sc: 0.982, acc_sa: 0.956, acc_wn: 0.996,         acc_wc: 0.974, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.915, acc_x: 0.820
+dev results ------------
+ Epoch: 34, ave loss: 5.330019178492277, acc_sc: 0.969, acc_sa: 0.892, acc_wn: 0.985,         acc_wc: 0.945, acc_wo: 0.974, acc_wvi: 0.949, acc_wv: 0.950, acc_lx: 0.794, acc_x: 0.853
+train results ------------
+ Epoch: 35, ave loss: 0.027042178332685986, acc_sc: 0.983, acc_sa: 0.955, acc_wn: 0.996,         acc_wc: 0.975, acc_wo: 0.993, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.913, acc_x: 0.817
+dev results ------------
+ Epoch: 35, ave loss: 5.333925213521992, acc_sc: 0.969, acc_sa: 0.895, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.974, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.800, acc_x: 0.857
+train results ------------
+ Epoch: 36, ave loss: 0.02579819739149807, acc_sc: 0.983, acc_sa: 0.955, acc_wn: 0.996,         acc_wc: 0.975, acc_wo: 0.992, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.914, acc_x: 0.818
+dev results ------------
+ Epoch: 36, ave loss: 5.238961777435708, acc_sc: 0.967, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.951, acc_lx: 0.792, acc_x: 0.851
+train results ------------
+ Epoch: 37, ave loss: 0.026517197850360514, acc_sc: 0.983, acc_sa: 0.957, acc_wn: 0.996,         acc_wc: 0.976, acc_wo: 0.993, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.916, acc_x: 0.820
+dev results ------------
+ Epoch: 37, ave loss: 5.150482795848114, acc_sc: 0.969, acc_sa: 0.890, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.975, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.796, acc_x: 0.858
+train results ------------
+ Epoch: 38, ave loss: 0.024203190725984546, acc_sc: 0.984, acc_sa: 0.958, acc_wn: 0.996,         acc_wc: 0.977, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.919, acc_x: 0.821
+dev results ------------
+ Epoch: 38, ave loss: 5.211412873058509, acc_sc: 0.970, acc_sa: 0.890, acc_wn: 0.985,         acc_wc: 0.944, acc_wo: 0.974, acc_wvi: 0.950, acc_wv: 0.951, acc_lx: 0.794, acc_x: 0.857
+train results ------------
+ Epoch: 39, ave loss: 0.024181983948704813, acc_sc: 0.983, acc_sa: 0.958, acc_wn: 0.996,         acc_wc: 0.976, acc_wo: 0.993, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.918, acc_x: 0.819
+dev results ------------
+ Epoch: 39, ave loss: 5.418500451433007, acc_sc: 0.969, acc_sa: 0.888, acc_wn: 0.986,         acc_wc: 0.946, acc_wo: 0.975, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.791, acc_x: 0.853
+train results ------------
+ Epoch: 40, ave loss: 0.022245876485194802, acc_sc: 0.984, acc_sa: 0.960, acc_wn: 0.996,         acc_wc: 0.977, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.922, acc_x: 0.822
+dev results ------------
+ Epoch: 40, ave loss: 5.175251113110727, acc_sc: 0.967, acc_sa: 0.893, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.975, acc_wvi: 0.950, acc_wv: 0.952, acc_lx: 0.796, acc_x: 0.855
+train results ------------
+ Epoch: 41, ave loss: 0.02087429219224491, acc_sc: 0.984, acc_sa: 0.959, acc_wn: 0.996,         acc_wc: 0.978, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.923, acc_x: 0.823
+dev results ------------
+ Epoch: 41, ave loss: 5.88827025262656, acc_sc: 0.970, acc_sa: 0.885, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.974, acc_wvi: 0.953, acc_wv: 0.954, acc_lx: 0.792, acc_x: 0.857
+train results ------------
+ Epoch: 42, ave loss: 0.02540646692333546, acc_sc: 0.983, acc_sa: 0.959, acc_wn: 0.996,         acc_wc: 0.977, acc_wo: 0.993, acc_wvi: 0.991, acc_wv: 0.991, acc_lx: 0.919, acc_x: 0.820
+dev results ------------
+ Epoch: 42, ave loss: 5.261642497822089, acc_sc: 0.970, acc_sa: 0.892, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.975, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.855
+train results ------------
+ Epoch: 43, ave loss: 0.020436691071804427, acc_sc: 0.985, acc_sa: 0.961, acc_wn: 0.996,         acc_wc: 0.977, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.924, acc_x: 0.823
+dev results ------------
+ Epoch: 43, ave loss: 5.634446219784553, acc_sc: 0.968, acc_sa: 0.892, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.974, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.794, acc_x: 0.855
+train results ------------
+ Epoch: 44, ave loss: 0.0212382256619073, acc_sc: 0.985, acc_sa: 0.962, acc_wn: 0.996,         acc_wc: 0.979, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.926, acc_x: 0.826
+dev results ------------
+ Epoch: 44, ave loss: 5.74840553753972, acc_sc: 0.968, acc_sa: 0.888, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.975, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.792, acc_x: 0.855
+train results ------------
+ Epoch: 45, ave loss: 0.023962461133373907, acc_sc: 0.984, acc_sa: 0.961, acc_wn: 0.996,         acc_wc: 0.978, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.924, acc_x: 0.823
+dev results ------------
+ Epoch: 45, ave loss: 5.595359765186954, acc_sc: 0.969, acc_sa: 0.894, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.976, acc_wvi: 0.951, acc_wv: 0.951, acc_lx: 0.798, acc_x: 0.861
+train results ------------
+ Epoch: 46, ave loss: 0.02151954963002772, acc_sc: 0.984, acc_sa: 0.962, acc_wn: 0.996,         acc_wc: 0.979, acc_wo: 0.994, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.926, acc_x: 0.824
+dev results ------------
+ Epoch: 46, ave loss: 5.74031126410733, acc_sc: 0.969, acc_sa: 0.892, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.976, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.798, acc_x: 0.856
+train results ------------
+ Epoch: 47, ave loss: 0.021051478416068713, acc_sc: 0.985, acc_sa: 0.964, acc_wn: 0.996,         acc_wc: 0.980, acc_wo: 0.993, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.930, acc_x: 0.826
+dev results ------------
+ Epoch: 47, ave loss: 5.65892997357617, acc_sc: 0.968, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.974, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.860
+train results ------------
+ Epoch: 48, ave loss: 0.020790110163872534, acc_sc: 0.985, acc_sa: 0.964, acc_wn: 0.996,         acc_wc: 0.979, acc_wo: 0.993, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.929, acc_x: 0.826
+dev results ------------
+ Epoch: 48, ave loss: 5.642349658061247, acc_sc: 0.968, acc_sa: 0.887, acc_wn: 0.987,         acc_wc: 0.950, acc_wo: 0.976, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.794, acc_x: 0.857
+train results ------------
+ Epoch: 49, ave loss: 0.017886442337989136, acc_sc: 0.985, acc_sa: 0.965, acc_wn: 0.996,         acc_wc: 0.980, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.932, acc_x: 0.828
+dev results ------------
+ Epoch: 49, ave loss: 5.907973466779457, acc_sc: 0.967, acc_sa: 0.885, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.975, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.792, acc_x: 0.853
+train results ------------
+ Epoch: 50, ave loss: 0.019149547448115218, acc_sc: 0.985, acc_sa: 0.966, acc_wn: 0.996,         acc_wc: 0.980, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.933, acc_x: 0.828
+dev results ------------
+ Epoch: 50, ave loss: 5.60149131144405, acc_sc: 0.968, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.952, acc_wv: 0.952, acc_lx: 0.796, acc_x: 0.857
+train results ------------
+ Epoch: 51, ave loss: 0.02010842807444789, acc_sc: 0.986, acc_sa: 0.965, acc_wn: 0.996,         acc_wc: 0.980, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.932, acc_x: 0.828
+dev results ------------
+ Epoch: 51, ave loss: 5.752839004138465, acc_sc: 0.971, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.976, acc_wvi: 0.953, acc_wv: 0.955, acc_lx: 0.800, acc_x: 0.862
+train results ------------
+ Epoch: 52, ave loss: 0.019377076071562683, acc_sc: 0.987, acc_sa: 0.966, acc_wn: 0.996,         acc_wc: 0.980, acc_wo: 0.993, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.934, acc_x: 0.829
+dev results ------------
+ Epoch: 52, ave loss: 5.905863503351624, acc_sc: 0.969, acc_sa: 0.885, acc_wn: 0.986,         acc_wc: 0.946, acc_wo: 0.974, acc_wvi: 0.953, acc_wv: 0.954, acc_lx: 0.791, acc_x: 0.855
+train results ------------
+ Epoch: 53, ave loss: 0.019524992225647388, acc_sc: 0.986, acc_sa: 0.966, acc_wn: 0.997,         acc_wc: 0.981, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.934, acc_x: 0.829
+dev results ------------
+ Epoch: 53, ave loss: 5.601115661517751, acc_sc: 0.970, acc_sa: 0.890, acc_wn: 0.986,         acc_wc: 0.949, acc_wo: 0.974, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.858
+train results ------------
+ Epoch: 54, ave loss: 0.018877038068705977, acc_sc: 0.986, acc_sa: 0.966, acc_wn: 0.996,         acc_wc: 0.981, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.935, acc_x: 0.829
+dev results ------------
+ Epoch: 54, ave loss: 5.782805342619612, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.953, acc_wv: 0.954, acc_lx: 0.795, acc_x: 0.856
+train results ------------
+ Epoch: 55, ave loss: 0.017679539361371056, acc_sc: 0.986, acc_sa: 0.966, acc_wn: 0.996,         acc_wc: 0.980, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.934, acc_x: 0.828
+dev results ------------
+ Epoch: 55, ave loss: 5.46686241347084, acc_sc: 0.967, acc_sa: 0.891, acc_wn: 0.985,         acc_wc: 0.948, acc_wo: 0.973, acc_wvi: 0.950, acc_wv: 0.951, acc_lx: 0.795, acc_x: 0.855
+train results ------------
+ Epoch: 56, ave loss: 0.020114794552125247, acc_sc: 0.986, acc_sa: 0.966, acc_wn: 0.997,         acc_wc: 0.981, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.934, acc_x: 0.829
+dev results ------------
+ Epoch: 56, ave loss: 5.591141043768605, acc_sc: 0.968, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.974, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.858
+train results ------------
+ Epoch: 57, ave loss: 0.017461012908253082, acc_sc: 0.987, acc_sa: 0.968, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.938, acc_x: 0.830
+dev results ------------
+ Epoch: 57, ave loss: 5.099837786192334, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.985,         acc_wc: 0.946, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.794, acc_x: 0.855
+train results ------------
+ Epoch: 58, ave loss: 0.019953387633071643, acc_sc: 0.986, acc_sa: 0.968, acc_wn: 0.996,         acc_wc: 0.981, acc_wo: 0.994, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.936, acc_x: 0.830
+dev results ------------
+ Epoch: 58, ave loss: 5.421117763034778, acc_sc: 0.969, acc_sa: 0.896, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.973, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.799, acc_x: 0.859
+train results ------------
+ Epoch: 59, ave loss: 0.01727012638774811, acc_sc: 0.986, acc_sa: 0.970, acc_wn: 0.997,         acc_wc: 0.982, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.939, acc_x: 0.830
+dev results ------------
+ Epoch: 59, ave loss: 5.83976053647505, acc_sc: 0.969, acc_sa: 0.894, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.803, acc_x: 0.861
+train results ------------
+ Epoch: 60, ave loss: 0.018268842450792168, acc_sc: 0.987, acc_sa: 0.968, acc_wn: 0.996,         acc_wc: 0.981, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.938, acc_x: 0.831
+dev results ------------
+ Epoch: 60, ave loss: 5.872526294186826, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.973, acc_wvi: 0.952, acc_wv: 0.952, acc_lx: 0.792, acc_x: 0.855
+train results ------------
+ Epoch: 61, ave loss: 0.01791503186248492, acc_sc: 0.987, acc_sa: 0.969, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.939, acc_x: 0.832
+dev results ------------
+ Epoch: 61, ave loss: 5.669480125627438, acc_sc: 0.967, acc_sa: 0.895, acc_wn: 0.987,         acc_wc: 0.947, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.798, acc_x: 0.857
+train results ------------
+ Epoch: 62, ave loss: 0.018591864943636873, acc_sc: 0.987, acc_sa: 0.970, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.939, acc_x: 0.831
+dev results ------------
+ Epoch: 62, ave loss: 5.23842700168974, acc_sc: 0.969, acc_sa: 0.897, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.801, acc_x: 0.859
+train results ------------
+ Epoch: 63, ave loss: 0.017361905270611988, acc_sc: 0.987, acc_sa: 0.969, acc_wn: 0.997,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.940, acc_x: 0.832
+dev results ------------
+ Epoch: 63, ave loss: 5.478228180393313, acc_sc: 0.966, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.947, acc_wo: 0.975, acc_wvi: 0.954, acc_wv: 0.954, acc_lx: 0.793, acc_x: 0.858
+train results ------------
+ Epoch: 64, ave loss: 0.015577433653237473, acc_sc: 0.988, acc_sa: 0.971, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.994, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.942, acc_x: 0.833
+dev results ------------
+ Epoch: 64, ave loss: 5.8376670029351, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.974, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.857
+train results ------------
+ Epoch: 65, ave loss: 0.01995021362893337, acc_sc: 0.986, acc_sa: 0.969, acc_wn: 0.996,         acc_wc: 0.981, acc_wo: 0.993, acc_wvi: 0.992, acc_wv: 0.992, acc_lx: 0.937, acc_x: 0.831
+dev results ------------
+ Epoch: 65, ave loss: 5.817866324393014, acc_sc: 0.970, acc_sa: 0.889, acc_wn: 0.985,         acc_wc: 0.948, acc_wo: 0.974, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.797, acc_x: 0.857
+train results ------------
+ Epoch: 66, ave loss: 0.01650665207099503, acc_sc: 0.987, acc_sa: 0.971, acc_wn: 0.996,         acc_wc: 0.981, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.941, acc_x: 0.832
+dev results ------------
+ Epoch: 66, ave loss: 5.684872041993673, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.986,         acc_wc: 0.949, acc_wo: 0.976, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.797, acc_x: 0.859
+train results ------------
+ Epoch: 67, ave loss: 0.014941626857266226, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.946, acc_x: 0.835
+dev results ------------
+ Epoch: 67, ave loss: 5.853700123401286, acc_sc: 0.970, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.976, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.798, acc_x: 0.859
+train results ------------
+ Epoch: 68, ave loss: 0.017595669031443963, acc_sc: 0.988, acc_sa: 0.971, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.942, acc_x: 0.833
+dev results ------------
+ Epoch: 68, ave loss: 5.421865872602581, acc_sc: 0.968, acc_sa: 0.886, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.973, acc_wvi: 0.952, acc_wv: 0.952, acc_lx: 0.789, acc_x: 0.851
+train results ------------
+ Epoch: 69, ave loss: 0.017338741496253255, acc_sc: 0.988, acc_sa: 0.971, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.943, acc_x: 0.833
+dev results ------------
+ Epoch: 69, ave loss: 5.735643593470455, acc_sc: 0.969, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.949, acc_wo: 0.974, acc_wvi: 0.954, acc_wv: 0.957, acc_lx: 0.800, acc_x: 0.862
+train results ------------
+ Epoch: 70, ave loss: 0.015459584856538517, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.945, acc_x: 0.834
+dev results ------------
+ Epoch: 70, ave loss: 5.8574030286784105, acc_sc: 0.970, acc_sa: 0.891, acc_wn: 0.988,         acc_wc: 0.948, acc_wo: 0.976, acc_wvi: 0.953, acc_wv: 0.955, acc_lx: 0.801, acc_x: 0.862
+train results ------------
+ Epoch: 71, ave loss: 0.01555388265125511, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.945, acc_x: 0.834
+dev results ------------
+ Epoch: 71, ave loss: 5.909543512865066, acc_sc: 0.969, acc_sa: 0.894, acc_wn: 0.987,         acc_wc: 0.946, acc_wo: 0.976, acc_wvi: 0.953, acc_wv: 0.954, acc_lx: 0.799, acc_x: 0.859
+train results ------------
+ Epoch: 72, ave loss: 0.01700258010470941, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.944, acc_x: 0.834
+dev results ------------
+ Epoch: 72, ave loss: 6.148236148607202, acc_sc: 0.968, acc_sa: 0.893, acc_wn: 0.987,         acc_wc: 0.950, acc_wo: 0.976, acc_wvi: 0.955, acc_wv: 0.956, acc_lx: 0.801, acc_x: 0.859
+train results ------------
+ Epoch: 73, ave loss: 0.014647480350489475, acc_sc: 0.989, acc_sa: 0.973, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.947, acc_x: 0.836
+dev results ------------
+ Epoch: 73, ave loss: 5.785665341490465, acc_sc: 0.968, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.947, acc_wo: 0.974, acc_wvi: 0.954, acc_wv: 0.954, acc_lx: 0.797, acc_x: 0.858
+train results ------------
+ Epoch: 74, ave loss: 0.01692450041021276, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.944, acc_x: 0.833
+dev results ------------
+ Epoch: 74, ave loss: 6.129664405087701, acc_sc: 0.968, acc_sa: 0.887, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.974, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.794, acc_x: 0.855
+train results ------------
+ Epoch: 75, ave loss: 0.01404540063285943, acc_sc: 0.988, acc_sa: 0.974, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.994, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.949, acc_x: 0.836
+dev results ------------
+ Epoch: 75, ave loss: 5.87197495841892, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.975, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.798, acc_x: 0.857
+train results ------------
+ Epoch: 76, ave loss: 0.01636135659943091, acc_sc: 0.989, acc_sa: 0.973, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.994, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.947, acc_x: 0.834
+dev results ------------
+ Epoch: 76, ave loss: 5.7291721472598605, acc_sc: 0.968, acc_sa: 0.888, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.795, acc_x: 0.856
+train results ------------
+ Epoch: 77, ave loss: 0.01651080185197946, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.945, acc_x: 0.834
+dev results ------------
+ Epoch: 77, ave loss: 5.869163159619105, acc_sc: 0.968, acc_sa: 0.890, acc_wn: 0.985,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.952, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.859
+train results ------------
+ Epoch: 78, ave loss: 0.013641468440814214, acc_sc: 0.988, acc_sa: 0.973, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.947, acc_x: 0.835
+dev results ------------
+ Epoch: 78, ave loss: 6.1688089709244105, acc_sc: 0.971, acc_sa: 0.881, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.974, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.792, acc_x: 0.860
+train results ------------
+ Epoch: 79, ave loss: 0.017120032681856398, acc_sc: 0.988, acc_sa: 0.971, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.943, acc_x: 0.834
+dev results ------------
+ Epoch: 79, ave loss: 5.9617249035758, acc_sc: 0.971, acc_sa: 0.894, acc_wn: 0.986,         acc_wc: 0.947, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.801, acc_x: 0.860
+train results ------------
+ Epoch: 80, ave loss: 0.017419193236212827, acc_sc: 0.988, acc_sa: 0.972, acc_wn: 0.996,         acc_wc: 0.982, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.944, acc_x: 0.834
+dev results ------------
+ Epoch: 80, ave loss: 5.578550261938599, acc_sc: 0.970, acc_sa: 0.884, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.976, acc_wvi: 0.955, acc_wv: 0.955, acc_lx: 0.792, acc_x: 0.857
+train results ------------
+ Epoch: 81, ave loss: 0.014114873009102894, acc_sc: 0.989, acc_sa: 0.975, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.950, acc_x: 0.837
+dev results ------------
+ Epoch: 81, ave loss: 5.8627870203876284, acc_sc: 0.969, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.975, acc_wvi: 0.956, acc_wv: 0.956, acc_lx: 0.798, acc_x: 0.862
+train results ------------
+ Epoch: 82, ave loss: 0.013226649965358815, acc_sc: 0.989, acc_sa: 0.974, acc_wn: 0.996,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.950, acc_x: 0.838
+dev results ------------
+ Epoch: 82, ave loss: 6.0452054519625, acc_sc: 0.970, acc_sa: 0.890, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.955, acc_wv: 0.955, acc_lx: 0.797, acc_x: 0.862
+train results ------------
+ Epoch: 83, ave loss: 0.017546675200600128, acc_sc: 0.989, acc_sa: 0.973, acc_wn: 0.997,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.946, acc_x: 0.835
+dev results ------------
+ Epoch: 83, ave loss: 5.748240453108708, acc_sc: 0.970, acc_sa: 0.890, acc_wn: 0.987,         acc_wc: 0.949, acc_wo: 0.975, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.796, acc_x: 0.857
+train results ------------
+ Epoch: 84, ave loss: 0.014944788822965375, acc_sc: 0.988, acc_sa: 0.974, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.949, acc_x: 0.837
+dev results ------------
+ Epoch: 84, ave loss: 5.8281763265588, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.795, acc_x: 0.859
+train results ------------
+ Epoch: 85, ave loss: 0.014964081469573362, acc_sc: 0.989, acc_sa: 0.974, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.948, acc_x: 0.836
+dev results ------------
+ Epoch: 85, ave loss: 5.940235813473802, acc_sc: 0.971, acc_sa: 0.889, acc_wn: 0.987,         acc_wc: 0.950, acc_wo: 0.977, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.800, acc_x: 0.862
+train results ------------
+ Epoch: 86, ave loss: 0.015077307089738843, acc_sc: 0.989, acc_sa: 0.975, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.950, acc_x: 0.837
+dev results ------------
+ Epoch: 86, ave loss: 5.891027339714119, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.988,         acc_wc: 0.948, acc_wo: 0.976, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.796, acc_x: 0.854
+train results ------------
+ Epoch: 87, ave loss: 0.014340220409325734, acc_sc: 0.988, acc_sa: 0.974, acc_wn: 0.996,         acc_wc: 0.984, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.947, acc_x: 0.836
+dev results ------------
+ Epoch: 87, ave loss: 5.935828772225632, acc_sc: 0.969, acc_sa: 0.890, acc_wn: 0.988,         acc_wc: 0.950, acc_wo: 0.976, acc_wvi: 0.957, acc_wv: 0.957, acc_lx: 0.798, acc_x: 0.858
+train results ------------
+ Epoch: 88, ave loss: 0.015450947954652499, acc_sc: 0.989, acc_sa: 0.974, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.994, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.948, acc_x: 0.836
+dev results ------------
+ Epoch: 88, ave loss: 6.012946161312661, acc_sc: 0.969, acc_sa: 0.884, acc_wn: 0.988,         acc_wc: 0.950, acc_wo: 0.977, acc_wvi: 0.956, acc_wv: 0.956, acc_lx: 0.793, acc_x: 0.858
+train results ------------
+ Epoch: 89, ave loss: 0.016847830342428656, acc_sc: 0.989, acc_sa: 0.973, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.945, acc_x: 0.835
+dev results ------------
+ Epoch: 89, ave loss: 6.010920811146135, acc_sc: 0.970, acc_sa: 0.891, acc_wn: 0.985,         acc_wc: 0.948, acc_wo: 0.974, acc_wvi: 0.951, acc_wv: 0.953, acc_lx: 0.799, acc_x: 0.863
+train results ------------
+ Epoch: 90, ave loss: 0.016225548974604303, acc_sc: 0.988, acc_sa: 0.974, acc_wn: 0.996,         acc_wc: 0.983, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.947, acc_x: 0.835
+dev results ------------
+ Epoch: 90, ave loss: 5.570441411468827, acc_sc: 0.968, acc_sa: 0.888, acc_wn: 0.985,         acc_wc: 0.945, acc_wo: 0.973, acc_wvi: 0.951, acc_wv: 0.952, acc_lx: 0.792, acc_x: 0.854
+train results ------------
+ Epoch: 91, ave loss: 0.017164012696556815, acc_sc: 0.988, acc_sa: 0.973, acc_wn: 0.996,         acc_wc: 0.984, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.946, acc_x: 0.835
+dev results ------------
+ Epoch: 91, ave loss: 5.625164476846937, acc_sc: 0.968, acc_sa: 0.886, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.973, acc_wvi: 0.952, acc_wv: 0.954, acc_lx: 0.790, acc_x: 0.851
+train results ------------
+ Epoch: 92, ave loss: 0.017057518377034286, acc_sc: 0.989, acc_sa: 0.975, acc_wn: 0.997,         acc_wc: 0.983, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.948, acc_x: 0.836
+dev results ------------
+ Epoch: 92, ave loss: 5.606096832971912, acc_sc: 0.969, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.948, acc_wo: 0.976, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.799, acc_x: 0.858
+train results ------------
+ Epoch: 93, ave loss: 0.014014964886116286, acc_sc: 0.990, acc_sa: 0.976, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.953, acc_x: 0.838
+dev results ------------
+ Epoch: 93, ave loss: 5.695433768828856, acc_sc: 0.970, acc_sa: 0.891, acc_wn: 0.986,         acc_wc: 0.946, acc_wo: 0.974, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.797, acc_x: 0.860
+train results ------------
+ Epoch: 94, ave loss: 0.015745036001127154, acc_sc: 0.990, acc_sa: 0.974, acc_wn: 0.996,         acc_wc: 0.984, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.949, acc_x: 0.837
+dev results ------------
+ Epoch: 94, ave loss: 5.7748144978824145, acc_sc: 0.970, acc_sa: 0.886, acc_wn: 0.987,         acc_wc: 0.947, acc_wo: 0.976, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.795, acc_x: 0.861
+train results ------------
+ Epoch: 95, ave loss: 0.0139183263600295, acc_sc: 0.989, acc_sa: 0.977, acc_wn: 0.997,         acc_wc: 0.986, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.953, acc_x: 0.839
+dev results ------------
+ Epoch: 95, ave loss: 5.559217225382815, acc_sc: 0.969, acc_sa: 0.883, acc_wn: 0.988,         acc_wc: 0.950, acc_wo: 0.968, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.787, acc_x: 0.852
+train results ------------
+ Epoch: 96, ave loss: 0.015545946910963874, acc_sc: 0.990, acc_sa: 0.975, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.994, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.950, acc_x: 0.838
+dev results ------------
+ Epoch: 96, ave loss: 5.793383637091879, acc_sc: 0.969, acc_sa: 0.891, acc_wn: 0.988,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.957, acc_wv: 0.957, acc_lx: 0.798, acc_x: 0.859
+train results ------------
+ Epoch: 97, ave loss: 0.014792058031767473, acc_sc: 0.989, acc_sa: 0.976, acc_wn: 0.997,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.951, acc_x: 0.837
+dev results ------------
+ Epoch: 97, ave loss: 5.6277691408088915, acc_sc: 0.971, acc_sa: 0.890, acc_wn: 0.987,         acc_wc: 0.945, acc_wo: 0.974, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.796, acc_x: 0.858
+train results ------------
+ Epoch: 98, ave loss: 0.013893973521110542, acc_sc: 0.990, acc_sa: 0.975, acc_wn: 0.996,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.951, acc_x: 0.838
+dev results ------------
+ Epoch: 98, ave loss: 5.879672104016339, acc_sc: 0.970, acc_sa: 0.890, acc_wn: 0.989,         acc_wc: 0.949, acc_wo: 0.978, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.799, acc_x: 0.859
+train results ------------
+ Epoch: 99, ave loss: 0.012912137138816913, acc_sc: 0.990, acc_sa: 0.976, acc_wn: 0.997,         acc_wc: 0.986, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.953, acc_x: 0.839
+dev results ------------
+ Epoch: 99, ave loss: 5.927503539343307, acc_sc: 0.969, acc_sa: 0.889, acc_wn: 0.982,         acc_wc: 0.942, acc_wo: 0.971, acc_wvi: 0.950, acc_wv: 0.950, acc_lx: 0.790, acc_x: 0.851
+train results ------------
+ Epoch: 100, ave loss: 0.014727879082220107, acc_sc: 0.989, acc_sa: 0.976, acc_wn: 0.996,         acc_wc: 0.984, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.950, acc_x: 0.837
+dev results ------------
+ Epoch: 100, ave loss: 5.713080884959107, acc_sc: 0.968, acc_sa: 0.891, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.976, acc_wvi: 0.956, acc_wv: 0.957, acc_lx: 0.798, acc_x: 0.859
+train results ------------
+ Epoch: 101, ave loss: 0.014583295349206615, acc_sc: 0.990, acc_sa: 0.976, acc_wn: 0.996,         acc_wc: 0.985, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.952, acc_x: 0.838
+dev results ------------
+ Epoch: 101, ave loss: 5.5762512494829055, acc_sc: 0.968, acc_sa: 0.889, acc_wn: 0.987,         acc_wc: 0.948, acc_wo: 0.975, acc_wvi: 0.957, acc_wv: 0.957, acc_lx: 0.799, acc_x: 0.862
+train results ------------
+ Epoch: 102, ave loss: 0.013139372624895814, acc_sc: 0.990, acc_sa: 0.978, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.996, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.955, acc_x: 0.839
+dev results ------------
+ Epoch: 102, ave loss: 6.057023053416595, acc_sc: 0.969, acc_sa: 0.888, acc_wn: 0.987,         acc_wc: 0.947, acc_wo: 0.975, acc_wvi: 0.958, acc_wv: 0.958, acc_lx: 0.796, acc_x: 0.857
+train results ------------
+ Epoch: 103, ave loss: 0.01578074509347597, acc_sc: 0.990, acc_sa: 0.978, acc_wn: 0.997,         acc_wc: 0.986, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.954, acc_x: 0.839
+dev results ------------
+ Epoch: 103, ave loss: 5.61600810533909, acc_sc: 0.968, acc_sa: 0.887, acc_wn: 0.987,         acc_wc: 0.950, acc_wo: 0.976, acc_wvi: 0.955, acc_wv: 0.956, acc_lx: 0.794, acc_x: 0.854
+train results ------------
+ Epoch: 104, ave loss: 0.01404190785987791, acc_sc: 0.991, acc_sa: 0.977, acc_wn: 0.997,         acc_wc: 0.986, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.955, acc_x: 0.840
+dev results ------------
+ Epoch: 104, ave loss: 5.411940739040301, acc_sc: 0.969, acc_sa: 0.892, acc_wn: 0.985,         acc_wc: 0.946, acc_wo: 0.975, acc_wvi: 0.953, acc_wv: 0.954, acc_lx: 0.798, acc_x: 0.856
+train results ------------
+ Epoch: 105, ave loss: 0.013761454032625874, acc_sc: 0.990, acc_sa: 0.977, acc_wn: 0.997,         acc_wc: 0.986, acc_wo: 0.995, acc_wvi: 0.994, acc_wv: 0.994, acc_lx: 0.954, acc_x: 0.840
+dev results ------------
+ Epoch: 105, ave loss: 5.851467248874745, acc_sc: 0.968, acc_sa: 0.887, acc_wn: 0.986,         acc_wc: 0.945, acc_wo: 0.975, acc_wvi: 0.953, acc_wv: 0.953, acc_lx: 0.791, acc_x: 0.854
+train results ------------
+ Epoch: 106, ave loss: 0.014210803697770094, acc_sc: 0.990, acc_sa: 0.978, acc_wn: 0.997,         acc_wc: 0.985, acc_wo: 0.995, acc_wvi: 0.993, acc_wv: 0.993, acc_lx: 0.955, acc_x: 0.840
+dev results ------------
+ Epoch: 106, ave loss: 5.4411850060009925, acc_sc: 0.969, acc_sa: 0.890, acc_wn: 0.986,         acc_wc: 0.946, acc_wo: 0.975, acc_wvi: 0.954, acc_wv: 0.955, acc_lx: 0.794, acc_x: 0.855

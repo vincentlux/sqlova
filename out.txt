@@ -1,0 +1,900 @@
+train results ------------
+ Epoch: 0, ave loss: 6.923257827758789, acc_sc: 0.333, acc_sa: 0.000, acc_wn: 0.083,         acc_wc: 0.000, acc_wo: 0.000, acc_wvi: 0.000, acc_wv: 0.000, acc_lx: 0.000, acc_x: 0.000
+dev results ------------
+ Epoch: 0, ave loss: 6.718952178955078, acc_sc: 0.417, acc_sa: 0.500, acc_wn: 0.917,         acc_wc: 0.000, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.083, acc_lx: 0.000, acc_x: 0.000
+train results ------------
+ Epoch: 0, ave loss: 6.927675882975261, acc_sc: 0.250, acc_sa: 0.000, acc_wn: 1.000,         acc_wc: 0.167, acc_wo: 0.000, acc_wvi: 0.000, acc_wv: 0.000, acc_lx: 0.000, acc_x: 0.000
+dev results ------------
+ Epoch: 0, ave loss: 6.7450822194417315, acc_sc: 0.250, acc_sa: 0.000, acc_wn: 0.917,         acc_wc: 0.000, acc_wo: 0.833, acc_wvi: 0.083, acc_wv: 0.083, acc_lx: 0.000, acc_x: 0.000
+train results ------------
+ Epoch: 0, ave loss: 6.827547709147136, acc_sc: 0.333, acc_sa: 0.417, acc_wn: 0.000,         acc_wc: 0.000, acc_wo: 0.000, acc_wvi: 0.000, acc_wv: 0.000, acc_lx: 0.000, acc_x: 0.000
+dev results ------------
+ Epoch: 0, ave loss: 6.625987370808919, acc_sc: 0.083, acc_sa: 0.750, acc_wn: 0.000,         acc_wc: 0.000, acc_wo: 0.000, acc_wvi: 0.000, acc_wv: 0.000, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 1, ave loss: 6.608892440795898, acc_sc: 0.500, acc_sa: 0.750, acc_wn: 0.000,         acc_wc: 0.000, acc_wo: 0.000, acc_wvi: 0.000, acc_wv: 0.000, acc_lx: 0.000, acc_x: 0.000
+dev results ------------
+ Epoch: 1, ave loss: 6.4624888102213545, acc_sc: 0.250, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 2, ave loss: 6.391471862792969, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.250, acc_wo: 1.000, acc_wvi: 0.417, acc_wv: 0.417, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 2, ave loss: 6.273135503133138, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 3, ave loss: 6.1328169504801435, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.250, acc_wo: 1.000, acc_wvi: 0.583, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 3, ave loss: 6.046302795410156, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 4, ave loss: 5.832368850708008, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.083, acc_wo: 1.000, acc_wvi: 0.500, acc_wv: 0.500, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 4, ave loss: 5.785410563151042, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 5, ave loss: 5.507525126139323, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.167, acc_wo: 1.000, acc_wvi: 0.750, acc_wv: 0.750, acc_lx: 0.167, acc_x: 0.167
+dev results ------------
+ Epoch: 5, ave loss: 5.507659912109375, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 6, ave loss: 5.150067329406738, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.333, acc_wo: 1.000, acc_wvi: 0.667, acc_wv: 0.667, acc_lx: 0.000, acc_x: 0.000
+dev results ------------
+ Epoch: 6, ave loss: 5.242564519246419, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 7, ave loss: 4.859303792317708, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.333, acc_wo: 1.000, acc_wvi: 0.750, acc_wv: 0.750, acc_lx: 0.167, acc_x: 0.167
+dev results ------------
+ Epoch: 7, ave loss: 5.015513737996419, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 8, ave loss: 4.545001029968262, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.250, acc_wo: 1.000, acc_wvi: 0.667, acc_wv: 0.667, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 8, ave loss: 4.831203142801921, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.000, acc_wv: 0.167, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 9, ave loss: 4.265069961547852, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.333, acc_wo: 1.000, acc_wvi: 0.750, acc_wv: 0.750, acc_lx: 0.167, acc_x: 0.167
+dev results ------------
+ Epoch: 9, ave loss: 4.680789311726888, acc_sc: 0.333, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 10, ave loss: 4.015330632527669, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.417, acc_wo: 1.000, acc_wvi: 0.583, acc_wv: 0.583, acc_lx: 0.167, acc_x: 0.167
+dev results ------------
+ Epoch: 10, ave loss: 4.552004496256511, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 11, ave loss: 3.7268142700195312, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.500, acc_wo: 1.000, acc_wvi: 0.667, acc_wv: 0.667, acc_lx: 0.167, acc_x: 0.167
+dev results ------------
+ Epoch: 11, ave loss: 4.446293830871582, acc_sc: 0.500, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 12, ave loss: 3.5066150029500327, acc_sc: 0.667, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.500, acc_wo: 1.000, acc_wvi: 0.583, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 12, ave loss: 4.349782625834147, acc_sc: 0.500, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 13, ave loss: 3.281095504760742, acc_sc: 0.750, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.333, acc_wo: 1.000, acc_wvi: 0.500, acc_wv: 0.500, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 13, ave loss: 4.248346328735352, acc_sc: 0.500, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 14, ave loss: 3.071385383605957, acc_sc: 0.750, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.333, acc_wo: 1.000, acc_wvi: 0.500, acc_wv: 0.500, acc_lx: 0.083, acc_x: 0.083
+dev results ------------
+ Epoch: 14, ave loss: 4.1498368581136065, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.000, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 15, ave loss: 2.837120691935221, acc_sc: 0.833, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.583, acc_wo: 1.000, acc_wvi: 0.500, acc_wv: 0.500, acc_lx: 0.167, acc_x: 0.167
+dev results ------------
+ Epoch: 15, ave loss: 4.0601151784261065, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 16, ave loss: 2.6188767751057944, acc_sc: 0.833, acc_sa: 0.750, acc_wn: 1.000,         acc_wc: 0.667, acc_wo: 1.000, acc_wvi: 0.417, acc_wv: 0.417, acc_lx: 0.250, acc_x: 0.250
+dev results ------------
+ Epoch: 16, ave loss: 3.982398351033529, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 17, ave loss: 2.4054436683654785, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 0.583, acc_wv: 0.583, acc_lx: 0.500, acc_x: 0.500
+dev results ------------
+ Epoch: 17, ave loss: 3.9102818171183267, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.083, acc_wv: 0.250, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 18, ave loss: 2.260658582051595, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.667, acc_wo: 1.000, acc_wvi: 0.667, acc_wv: 0.667, acc_lx: 0.417, acc_x: 0.500
+dev results ------------
+ Epoch: 18, ave loss: 3.8337605794270835, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.250, acc_wv: 0.333, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 19, ave loss: 2.036673069000244, acc_sc: 0.667, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.667, acc_wo: 1.000, acc_wvi: 0.750, acc_wv: 0.750, acc_lx: 0.417, acc_x: 0.500
+dev results ------------
+ Epoch: 19, ave loss: 3.751570383707682, acc_sc: 0.583, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.250, acc_wv: 0.333, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 20, ave loss: 1.686284065246582, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 0.833, acc_wv: 0.833, acc_lx: 0.583, acc_x: 0.750
+dev results ------------
+ Epoch: 20, ave loss: 3.66523806254069, acc_sc: 0.500, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.250, acc_wv: 0.333, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 21, ave loss: 1.5313480695088704, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.667, acc_wo: 1.000, acc_wvi: 0.917, acc_wv: 0.917, acc_lx: 0.667, acc_x: 0.750
+dev results ------------
+ Epoch: 21, ave loss: 3.601980209350586, acc_sc: 0.500, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.250, acc_wv: 0.333, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 22, ave loss: 1.416288693745931, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 0.917, acc_wv: 0.917, acc_lx: 0.750, acc_x: 0.833
+dev results ------------
+ Epoch: 22, ave loss: 3.5347668329874673, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.250, acc_wv: 0.333, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 23, ave loss: 1.125584363937378, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.667, acc_wo: 1.000, acc_wvi: 0.917, acc_wv: 0.917, acc_lx: 0.583, acc_x: 0.750
+dev results ------------
+ Epoch: 23, ave loss: 3.4852768580118814, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.250, acc_wv: 0.333, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 24, ave loss: 1.0436757405598958, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.583, acc_x: 0.833
+dev results ------------
+ Epoch: 24, ave loss: 3.424231847127279, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.333, acc_wv: 0.417, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 25, ave loss: 0.9641167322794596, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 0.917, acc_wv: 0.917, acc_lx: 0.667, acc_x: 0.750
+dev results ------------
+ Epoch: 25, ave loss: 3.3833347956339517, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.333, acc_wv: 0.417, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 26, ave loss: 0.7362776597340902, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.667, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.667, acc_x: 0.750
+dev results ------------
+ Epoch: 26, ave loss: 3.330990473429362, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.333, acc_wv: 0.417, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 27, ave loss: 0.6950514316558838, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 0.917, acc_wv: 0.917, acc_lx: 0.667, acc_x: 0.750
+dev results ------------
+ Epoch: 27, ave loss: 3.289332707722982, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 28, ave loss: 0.6180464426676432, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.667, acc_x: 0.833
+dev results ------------
+ Epoch: 28, ave loss: 3.2513856887817383, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 29, ave loss: 0.4538135528564453, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 0.917, acc_wv: 0.917, acc_lx: 0.583, acc_x: 0.667
+dev results ------------
+ Epoch: 29, ave loss: 3.2438503901163735, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 30, ave loss: 0.40178024768829346, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.667, acc_x: 0.833
+dev results ------------
+ Epoch: 30, ave loss: 3.2111841837565103, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 31, ave loss: 0.3589972257614136, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.833, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.750, acc_x: 0.833
+dev results ------------
+ Epoch: 31, ave loss: 3.190759023030599, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 32, ave loss: 0.28386374314626056, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.667, acc_x: 0.833
+dev results ------------
+ Epoch: 32, ave loss: 3.174179712931315, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 33, ave loss: 0.250382939974467, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.750, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.583, acc_x: 0.833
+dev results ------------
+ Epoch: 33, ave loss: 3.156932512919108, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 34, ave loss: 0.2401814063390096, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.833, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.750, acc_x: 0.917
+dev results ------------
+ Epoch: 34, ave loss: 3.152266184488932, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 35, ave loss: 0.19833693901697794, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.833, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.667, acc_x: 0.833
+dev results ------------
+ Epoch: 35, ave loss: 3.151620864868164, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 36, ave loss: 0.15452730655670166, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.833, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.833, acc_x: 0.917
+dev results ------------
+ Epoch: 36, ave loss: 3.1649271647135415, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 37, ave loss: 0.13322202364603677, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 37, ave loss: 3.177508989969889, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 38, ave loss: 0.10713898142178853, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 38, ave loss: 3.1857004165649414, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 39, ave loss: 0.09736378987630208, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 39, ave loss: 3.1940952936808267, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 40, ave loss: 0.09043933947881062, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 40, ave loss: 3.2121009826660156, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 41, ave loss: 0.07240556677182515, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 41, ave loss: 3.2300551732381186, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 42, ave loss: 0.06562148034572601, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.833, acc_x: 0.833
+dev results ------------
+ Epoch: 42, ave loss: 3.255680720011393, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 43, ave loss: 0.07063854734102885, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.833, acc_x: 0.917
+dev results ------------
+ Epoch: 43, ave loss: 3.2803831100463867, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 44, ave loss: 0.05408603449662527, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 44, ave loss: 3.29244327545166, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 45, ave loss: 0.049886430303255715, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 45, ave loss: 3.2944555282592773, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 46, ave loss: 0.05224853754043579, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 46, ave loss: 3.3110386530558267, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 47, ave loss: 0.07315432031949361, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.750, acc_x: 0.917
+dev results ------------
+ Epoch: 47, ave loss: 3.311203956604004, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 48, ave loss: 0.05417462189992269, acc_sc: 0.833, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.750, acc_x: 0.917
+dev results ------------
+ Epoch: 48, ave loss: 3.303640047709147, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.417, acc_wv: 0.500, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 49, ave loss: 0.04628534118334452, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 0.917
+dev results ------------
+ Epoch: 49, ave loss: 3.298015912373861, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 50, ave loss: 0.07687103748321533, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 0.917
+dev results ------------
+ Epoch: 50, ave loss: 3.2863988876342773, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 51, ave loss: 0.03119368851184845, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 51, ave loss: 3.2846816380818686, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 52, ave loss: 0.030692676703135174, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 52, ave loss: 3.285395940144857, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 53, ave loss: 0.03195220728715261, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 0.917
+dev results ------------
+ Epoch: 53, ave loss: 3.284057299296061, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 54, ave loss: 0.03660265107949575, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 54, ave loss: 3.2899805704752603, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.0at epoch0train results ------------
+ Epoch: 55, ave loss: 0.04394609729448954, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 55, ave loss: 3.3019981384277344, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 56, ave loss: 0.024305813014507294, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 56, ave loss: 3.3160613377889, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 57, ave loss: 0.020910886426766712, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 57, ave loss: 3.3255786895751953, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 58, ave loss: 0.02537006139755249, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.833, acc_x: 1.000
+dev results ------------
+ Epoch: 58, ave loss: 3.3382059733072915, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 59, ave loss: 0.021731237570444744, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 59, ave loss: 3.3496936162312827, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 60, ave loss: 0.022158034145832062, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 60, ave loss: 3.359029769897461, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 61, ave loss: 0.018288542826970417, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 61, ave loss: 3.3648036321004233, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 62, ave loss: 0.01663944994409879, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 62, ave loss: 3.3684972127278647, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 63, ave loss: 0.02103818456331889, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 63, ave loss: 3.37327512105306, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 64, ave loss: 0.015013312300046286, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 64, ave loss: 3.383554776509603, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 65, ave loss: 0.01731552556157112, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 65, ave loss: 3.386115392049154, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 66, ave loss: 0.040821515023708344, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 0.917
+dev results ------------
+ Epoch: 66, ave loss: 3.3770618438720703, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 67, ave loss: 0.014009555180867514, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 67, ave loss: 3.369424819946289, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 68, ave loss: 0.035752842823664345, acc_sc: 0.917, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 0.917
+dev results ------------
+ Epoch: 68, ave loss: 3.3536898295084634, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 69, ave loss: 0.01675304025411606, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 69, ave loss: 3.3403282165527344, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 70, ave loss: 0.015663915624221165, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 70, ave loss: 3.3264662424723306, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 71, ave loss: 0.01488409067193667, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 71, ave loss: 3.315962473551432, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 72, ave loss: 0.014154881238937378, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 72, ave loss: 3.309677759806315, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 73, ave loss: 0.019562580933173496, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 73, ave loss: 3.306023597717285, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 74, ave loss: 0.014106760422388712, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 74, ave loss: 3.3099025090535483, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 75, ave loss: 0.014868640651305517, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 75, ave loss: 3.3195250829060874, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 76, ave loss: 0.012274697422981262, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 76, ave loss: 3.3350092569986978, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 77, ave loss: 0.011232271790504456, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 77, ave loss: 3.354089101155599, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 78, ave loss: 0.01055565724770228, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 78, ave loss: 3.3780345916748047, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 79, ave loss: 0.011797241866588593, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 79, ave loss: 3.400109608968099, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 80, ave loss: 0.010648498932520548, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 80, ave loss: 3.4205875396728516, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 81, ave loss: 0.0111309215426445, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 81, ave loss: 3.439358393351237, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 82, ave loss: 0.011386323720216751, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 82, ave loss: 3.4527015686035156, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 83, ave loss: 0.013358116149902344, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 83, ave loss: 3.4643160502115884, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 84, ave loss: 0.011583386609951654, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 84, ave loss: 3.4796196619669595, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 85, ave loss: 0.007999530682961145, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 85, ave loss: 3.489159266153971, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 86, ave loss: 0.0073762039343516035, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 86, ave loss: 3.4975760777791343, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.417, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 87, ave loss: 0.00889483094215393, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 87, ave loss: 3.5055834452311196, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.417, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 88, ave loss: 0.012839401761690775, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 88, ave loss: 3.5044116973876953, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.417, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 89, ave loss: 0.013630722959836325, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 89, ave loss: 3.4978243509928384, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 90, ave loss: 0.0103930135567983, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 90, ave loss: 3.492233912150065, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 91, ave loss: 0.008529456953207651, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 91, ave loss: 3.4883222579956055, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 92, ave loss: 0.008536936094363531, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 92, ave loss: 3.48686154683431, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 93, ave loss: 0.012481534232695898, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 93, ave loss: 3.4877707163492837, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 94, ave loss: 0.008449353898564974, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 94, ave loss: 3.4936548868815103, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 95, ave loss: 0.00782843492925167, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 95, ave loss: 3.4977054595947266, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 96, ave loss: 0.011151147385438284, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 0.917
+dev results ------------
+ Epoch: 96, ave loss: 3.5033849080403647, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 97, ave loss: 0.012330745657285055, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 97, ave loss: 3.499815305074056, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 98, ave loss: 0.006069713582595189, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 98, ave loss: 3.496932029724121, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 99, ave loss: 0.005481034517288208, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 99, ave loss: 3.4961236317952475, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 100, ave loss: 0.007540409763654073, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 100, ave loss: 3.49566650390625, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 101, ave loss: 0.006781755636135737, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 101, ave loss: 3.497983932495117, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 102, ave loss: 0.006635439892609914, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 102, ave loss: 3.4992265701293945, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 103, ave loss: 0.005305678894122441, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 103, ave loss: 3.500971794128418, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 104, ave loss: 0.010396961122751236, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 0.917, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 0.917, acc_x: 1.000
+dev results ------------
+ Epoch: 104, ave loss: 3.503122329711914, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 105, ave loss: 0.006462314476569493, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 105, ave loss: 3.505478858947754, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 106, ave loss: 0.0066523893425862, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 106, ave loss: 3.5082276662190757, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 107, ave loss: 0.006700914353132248, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 107, ave loss: 3.5094629923502603, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 108, ave loss: 0.006957296282052994, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 108, ave loss: 3.511528650919596, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 109, ave loss: 0.00586362990240256, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 109, ave loss: 3.5135205586751304, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 110, ave loss: 0.006622744103272756, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 110, ave loss: 3.5151713689168296, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 111, ave loss: 0.005684894820054372, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 111, ave loss: 3.513991355895996, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 112, ave loss: 0.012676683564980825, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 112, ave loss: 3.5055004755655923, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 113, ave loss: 0.0054654572159051895, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 113, ave loss: 3.4988937377929688, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.083, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.000, acc_x: 0.000
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 114, ave loss: 0.00693412683904171, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 114, ave loss: 3.496526082356771, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.250, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 115, ave loss: 0.006233227749665578, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 115, ave loss: 3.501648267110189, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 116, ave loss: 0.006854662671685219, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 116, ave loss: 3.502894719441732, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 117, ave loss: 0.008285618076721827, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 117, ave loss: 3.5008360544840493, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 118, ave loss: 0.006312151749928792, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 118, ave loss: 3.501404126485189, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 119, ave loss: 0.006517296036084493, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 119, ave loss: 3.497814178466797, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.333, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 120, ave loss: 0.0070269641776879626, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 120, ave loss: 3.490656534830729, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 121, ave loss: 0.006324348971247673, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 121, ave loss: 3.4892374674479165, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55train results ------------
+ Epoch: 122, ave loss: 0.004990669588247935, acc_sc: 1.000, acc_sa: 1.000, acc_wn: 1.000,         acc_wc: 1.000, acc_wo: 1.000, acc_wvi: 1.000, acc_wv: 1.000, acc_lx: 1.000, acc_x: 1.000
+dev results ------------
+ Epoch: 122, ave loss: 3.489473342895508, acc_sc: 0.417, acc_sa: 0.750, acc_wn: 0.917,         acc_wc: 0.167, acc_wo: 0.917, acc_wvi: 0.500, acc_wv: 0.583, acc_lx: 0.083, acc_x: 0.083
+Best Dev lx acc: 0.08333333333333333at epoch55
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
+
+Best Dev lx acc: 0.0 at epoch 0
