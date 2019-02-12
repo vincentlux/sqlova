@@ -63,7 +63,7 @@ def construct_hyper_param(parser):
 
     # 1.4 Execution-guided decoding beam-size. It is used only in test.py
     parser.add_argument('--EG',
-                        default=False,
+                        default=True,
                         action='store_true',
                         help="If present, Execution guided decoding is used in test.")
     parser.add_argument('--beam_size',
@@ -73,6 +73,7 @@ def construct_hyper_param(parser):
     
     # Redirect output to file
     parser.add_argument('--out', default='out.txt', type=str, help="output file name")
+    parser.add_argument('--best_out', default='f_out.txt', type=str, help="best output file name")
 
     args = parser.parse_args()
 
@@ -635,8 +636,8 @@ if __name__ == '__main__':
             torch.save(state, os.path.join('.', 'model_bert_best.pt'))
         
         # bug
-        # with open("out.txt", "a") as f:
-            # best = "\nBest Dev lx acc: " + str(acc_lx_t_best) + " at epoch " + str(epoch_best) + "\n"
-            # f.write(best)
+        with open(args.best_out, "a") as f:
+            best = "\nBest Dev lx acc: " + str(acc_lx_t_best) + " at epoch " + str(epoch_best) + "\n"
+            f.write(best)
         # print(acc_lx_t_best, epoch_best)
         # print(f" Best Dev lx acc: {acc_lx_t_best} at epoch: {epoch_best}")
