@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/Users/luxiaopeng/anaconda3/envs/sqlova/bin/python"
+}
